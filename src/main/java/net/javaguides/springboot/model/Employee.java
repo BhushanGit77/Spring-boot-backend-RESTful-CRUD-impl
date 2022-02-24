@@ -63,6 +63,4 @@ public class Employee {
 	public String toString() {
 		return "Employee [firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + "]";
 	}
-	
-
 }
